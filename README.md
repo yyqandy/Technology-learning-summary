@@ -2,7 +2,8 @@
 Technology learning summary. Include tech and how to learning and some tech summary and issue summary
 
 #前端开发工程师：
-		开发工具，智能提示的(sublime, webstorm ,vscode，visualstudio，手机开发平台工具？ )
+		开发工具:
+			智能提示的(sublime, webstorm ,vscode，visualstudio，手机开发平台工具？ )
 
 		
 		设计工具：
