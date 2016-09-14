@@ -1,8 +1,8 @@
 #技术学习总结（Technology-learning-summary）
 Technology learning summary. Include tech and how to learning and some tech summary and issue summary
 
-##前端开发工程师：
-	搜索：
+#前端开发工程师：
+	###搜索：
 		站内进行搜索:
 			实例：site:www.cnblogs.com/zichi  ，
 			site:www.cnblogs.com 数组乱序
@@ -13,7 +13,7 @@ Technology learning summary. Include tech and how to learning and some tech summ
 		星号(*):
 			实例：Array.prototype.*   返回Array.prototype.map(), Array.prototype.some(),Array.prototype.filter()
 	
-	开发工具:
+	##开发工具:
 		
 		智能提示的(sublime, webstorm ,vscode，visualstudio，手机开发平台工具？ )
 		
@@ -21,8 +21,7 @@ Technology learning summary. Include tech and how to learning and some tech summ
 			Axure：
 			fireworks：
 			photoshop
-				部署编辑压缩:
-			Webpack(Gulp Babel )
+				
 	JS：
 	
 	
@@ -33,6 +32,7 @@ Technology learning summary. Include tech and how to learning and some tech summ
 	框架库：
 		Riot.js
 		Vue.js
+	Web安全：
 	
 	插件库：
 		图表类：
@@ -46,6 +46,8 @@ Technology learning summary. Include tech and how to learning and some tech summ
 			
 	打包压缩部署：	
 		Webpack
+		部署编辑压缩:
+			Webpack(Gulp Babel )
 	现阶段学习方向：
 			
 	构建分布式、高并发、高性能、高可用、大规模并发、高可扩展性、高可维护性
@@ -57,4 +59,6 @@ Technology learning summary. Include tech and how to learning and some tech summ
 #MySQL
 
 #Redis
+
+
 
