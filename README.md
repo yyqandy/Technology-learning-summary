@@ -2,10 +2,10 @@
 Technology learning summary. Include tech and how to learning and some tech summary and issue summary
 
 #前端开发工程师：
-	###搜索：
+	搜索：
 		站内进行搜索:
-			实例：site:www.cnblogs.com/zichi  ，
-			site:www.cnblogs.com 数组乱序
+			site:stackoverflow.com  site:cnblogs.com site:csdn.com 
+			github.com
 		搜索相关网站
 			实例： related:www.tudou.com，related:www.cnblogs.com youku iqiyi 相关同一类的网站
 		查找指定格式文档:
@@ -13,7 +13,7 @@ Technology learning summary. Include tech and how to learning and some tech summ
 		星号(*):
 			实例：Array.prototype.*   返回Array.prototype.map(), Array.prototype.some(),Array.prototype.filter()
 	
-	##开发工具:
+	开发工具:
 		
 		智能提示的(sublime, webstorm ,vscode，visualstudio，手机开发平台工具？ )
 		
@@ -23,11 +23,14 @@ Technology learning summary. Include tech and how to learning and some tech summ
 			photoshop
 				
 	JS：
+		jQuery
 	
 	
 	CSS：
+		bootstrap
 	
 	HTML：
+		html5
 	
 	框架库：
 		Riot.js
@@ -39,10 +42,6 @@ Technology learning summary. Include tech and how to learning and some tech summ
 			NVD3.js
 			Jqplot
 			Echart()
-		论坛：
-			Oschina
-			github
-			Stackoverflow 
 			
 	打包压缩部署：	
 		Webpack
