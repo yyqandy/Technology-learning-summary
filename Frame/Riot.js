@@ -1,6 +1,6 @@
 #Riot.js
     Riot.js:
-	Riot.js代码风格：
+	Riot.js代码风格指南：
 		http://www.tuicool.com/articles/U3UbIv7
 		https://voorhoede.github.io/riotjs-demos/
 	1..tag.html结尾
