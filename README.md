@@ -47,6 +47,8 @@ Technology learning summary. Include tech and how to learning and some tech summ
 		Webpack
 		部署编辑压缩:
 			Webpack(Gulp Babel )
+	其它工具：
+		JSmind
 	现阶段学习方向：
 			
 	构建分布式、高并发、高性能、高可用、大规模并发、高可扩展性、高可维护性
