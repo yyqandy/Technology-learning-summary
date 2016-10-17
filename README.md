@@ -25,11 +25,11 @@ Technology learning summary. Include tech and how to learning and some tech summ
 			photoshop
 				
 	JS：
-		[jQuery](https://1drv.ms/o/s!AhnaSb0WJna5gQCgKvqkG2ObfLje)
+		![jQuery](https://1drv.ms/o/s!AhnaSb0WJna5gQCgKvqkG2ObfLje)
 	
 	
 	CSS：
-		[bootstrap](http://www.baidu.com)
+		![bootstrap](http://www.baidu.com)
 	
 	HTML：
 		html5
