@@ -25,7 +25,7 @@ Technology learning summary. Include tech and how to learning and some tech summ
 			photoshop
 				
 	JS：
-		[jQuery](https://onedrive.live.com/edit.aspx?cid=b9762616bd49da19&page=view&resid=B9762616BD49DA19!128&parId=B9762616BD49DA19!127&app=OneNote)
+		[jQuery](https://1drv.ms/o/s!AhnaSb0WJna5gQCgKvqkG2ObfLje)
 	
 	
 	CSS：
